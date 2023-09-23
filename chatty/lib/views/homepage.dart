@@ -39,7 +39,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("HomePage"),
+        title: Text("Messages"),
         actions: [
           IconButton(onPressed: signOut, icon: Icon(Icons.logout_rounded))
         ],
@@ -79,8 +79,8 @@ class _HomePageState extends State<HomePage> {
                 context,
                 MaterialPageRoute(
                     builder: (context) => ChatPage(
-                          reciverUserEmail: data['email'],
-                          reciverUserID: data['uid'],
+                          receiverUserEmail: data['email'],
+                          receiverUserID: data['uid'],
                         )));
           });
     } else {
