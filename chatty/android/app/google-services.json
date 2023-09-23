@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257263343309",
+    "project_id": "chatty-my-mini-chat-app",
+    "storage_bucket": "chatty-my-mini-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257263343309:android:40146c2b2032f7d39e7b84",
+        "android_client_info": {
+          "package_name": "com.example.chatty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXWnMlwvfal33PdUB2-s3q0DNodl9eEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
