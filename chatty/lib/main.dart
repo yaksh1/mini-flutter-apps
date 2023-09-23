@@ -2,6 +2,7 @@
 import 'package:chatty/firebase_options.dart';
 import 'package:chatty/services/auth_gate.dart';
 import 'package:chatty/services/auth_service.dart';
+import 'package:chatty/views/chat_page.dart';
 import 'package:chatty/views/homepage.dart';
 import 'package:chatty/views/login.dart';
 import 'package:chatty/views/resgister.dart';
