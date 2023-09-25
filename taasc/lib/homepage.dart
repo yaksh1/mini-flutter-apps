@@ -112,7 +112,6 @@ class _HomePageState extends State<HomePage> {
                     color: Colors.blueGrey[800],
                   ),
                 ),
-                Text("hereeee"),
                 SizedBox(
                   height: 10.h,
                 ),
